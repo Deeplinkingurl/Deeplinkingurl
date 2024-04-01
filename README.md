@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Deeplinkingurl
+- 👀 I’m interested in getting a payout..
+- 🌱 I’m currently learning coding ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me trelo.38@icloud
+- com ..
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Deeplinkingurl/Deeplinkingurl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
